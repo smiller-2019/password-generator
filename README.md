@@ -23,6 +23,6 @@ The following have been applied to the code:
    should be generated and displayed in the text box that include
    the selected criteria.
 
-![Screenshot of webpage](https://github.com/smiller-2019/password-generator/blob/main/images/screenshot1.png)
+![Screenshot of webpage](https://github.com/smiller-2019/password-generator/blob/main/Develop/images/screenshot1.png)
 
-![Screenshot of mobile responsive webpage](https://github.com/smiller-2019/password-generator/blob/main/images/screenshot2.png)
+![Screenshot of mobile responsive webpage](https://github.com/smiller-2019/password-generator/blob/main/Develop/images/screenshot2.png)
