@@ -22,6 +22,8 @@ The following have been applied to the code:
 6. when the generate password button is pressed a password
    should be generated and displayed in the text box that include
    the selected criteria.
+   
+[link to deployed application](https://smiller-2019.github.io/password-generator/Develop/)
 
 ![Screenshot of webpage](https://github.com/smiller-2019/password-generator/blob/main/Develop/images/screenshot1.png)
 
